@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/node_modules/react-native/Libraries/Text/RCTFontAttributes.m \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dominic-lee/rn_pjts/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

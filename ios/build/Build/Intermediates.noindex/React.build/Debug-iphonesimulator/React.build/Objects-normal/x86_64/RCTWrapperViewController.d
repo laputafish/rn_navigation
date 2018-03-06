@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/RCTWrapperViewController.m \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/dominic-lee/pjt_rn/AwesomeProject/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
